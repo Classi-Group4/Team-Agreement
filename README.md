@@ -74,7 +74,5 @@
 #### How will you communicate that it's time to merge?
 - Usually in the evening meeting we can discuss the pull requests and agree to merge.
 
-## Prep 02
-### DataBase Schema
 
-![schema](C:\Users\fara7\Downloads\drawSQL-export-2023-01-14_22_15.png)
+
